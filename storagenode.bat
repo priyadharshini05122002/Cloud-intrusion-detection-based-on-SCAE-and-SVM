@@ -1,0 +1,2 @@
+set classpath=.;
+java storagenode
